@@ -6,6 +6,7 @@ API_practice.ipynb
 random_numbers.ipynb
 try-except.ipynb
 Google_Nearby_Search.ipynb
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
